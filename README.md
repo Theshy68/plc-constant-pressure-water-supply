@@ -4,7 +4,7 @@
 
 ## GitHub 仓库
 
-- 私有仓库：https://github.com/Theshy68/plc-constant-pressure-water-supply
+- 公开仓库：https://github.com/Theshy68/plc-constant-pressure-water-supply
 - 克隆项目及固定版本的上游参考工程：
 
 ```powershell
