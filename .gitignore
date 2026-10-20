@@ -1,0 +1,22 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python dependencies and caches
+__pycache__/
+*.py[cod]
+python_deps/
+.venv/
+venv/
+
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Extracted document review intermediates; source documents are retained
+/archive/任务书修订/2026-10-13/review-unpacked/

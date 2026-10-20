@@ -1,0 +1,297 @@
+{
+  "repository": "https://github.com/AlexKolokas/PLC-PID-Level-Control",
+  "commit": "46a03f5a2d827c568aff890aa15e98479d7826d1",
+  "date": "2026-10-13",
+  "files": [
+    {
+      "path": "Filling Tank/AdditionalFiles/PLCM/plcmArchive.pma15_0",
+      "size": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    {
+      "path": "Filling Tank/Filling Tank.ap15",
+      "size": 7735,
+      "sha256": "502d6e7a68e87cb1048f2ce0746ed2a8c342755e4a42a8c072e8d7987fdbb597"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/BrokerInfo.dat",
+      "size": 273,
+      "sha256": "539345a87b306b297646fa51c847471aac2d107cc87c7b57d4105d8a0028cce3"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/DeviceSettings.hsf",
+      "size": 56,
+      "sha256": "75bcabddb81cfe1a707d101d0545b5c6c7c17f0a2c3af911d3c555acacc59d3a"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/DownloadTask.xml",
+      "size": 835,
+      "sha256": "3231bc7e4643b03c8002a7fb4f9a6c02597a4d5dbf0cf36a94cb7ee3adda6555"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/ProjectCharacteristics.rdf",
+      "size": 167,
+      "sha256": "0db6d2fe81c36819a329395301558bbd41ab0f32f1f80869a7bc203f52a4fe36"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/ProjectSettings.hsf",
+      "size": 123,
+      "sha256": "0fddfe01761c4f9447b0a82ae11e99bfeb7e2055f5dce65f08c973460e4a978f"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/pdata.fwc",
+      "size": 674728,
+      "sha256": "ade2222b28a9e32883b3837f315a876fc43eca150fc40230a755997f3e64a894"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/pdata.pwl3",
+      "size": 260,
+      "sha256": "b635912d62e2475045fa5145336b494ec9b4c60eb2303d39097b8f3752d6b017"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/pdata.pwl4",
+      "size": 528,
+      "sha256": "b69bcf3dba35ceba7022d2e23f0b7c7a5e5f392e84662d2d6731fdc70962682e"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/Generates/pdata.rld",
+      "size": 20484,
+      "sha256": "a8a351573a4da57d077e100fc0a50cd9b80df4d29e5d1c8c29148f9617885565"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/RtData.idx",
+      "size": 77317,
+      "sha256": "ad5a82c3221632d7d4bfde559f69b94401db9d6ef38ccc69792ac5ed2f635d62"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/RtData.plf",
+      "size": 5931850,
+      "sha256": "881efe042a893ba8e45171212b55bf2e83094c7e1740d1661a3f3834a46d012e"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/SdalRTPlugin.IntermediateFormat.{1052700-1621}.{11669506-31197}.gd",
+      "size": 6858,
+      "sha256": "a9b6fe2be0fa52be6ef9ee682b4853e38148b7faea8eb01d1c3c8197c32bca79"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/SdalRTPlugin.IntermediateFormat.{1052700-1621}.{11669506-31197}.gdbak",
+      "size": 6858,
+      "sha256": "a9b6fe2be0fa52be6ef9ee682b4853e38148b7faea8eb01d1c3c8197c32bca79"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/SdalRTPluginInfo.dat",
+      "size": 108,
+      "sha256": "f1ac962e40ecf4a9d656122406883087b7a967ea67337dae8a1b1729d9573715"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/C/1/intermediate.dti",
+      "size": 108,
+      "sha256": "e315365da322a70ced8f6c6b642659f30e8be650a8f81782489dece1a14c1355"
+    },
+    {
+      "path": "Filling Tank/IM/HMI/DeviceFolders.dat",
+      "size": 41,
+      "sha256": "5e994a5b5a95f24e02bb7cbceecd432bf5d9fb310794a309f1a175e2f70c6668"
+    },
+    {
+      "path": "Filling Tank/IM/SPL/options",
+      "size": 1451,
+      "sha256": "406374bd7668b50c59bbf3b6aab3add15b0742d703b2a6cb1a148164c3f0034e"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.fdt",
+      "size": 97909,
+      "sha256": "dc541cee0b4c6a97fda0008eb55b57ed51603af945e26b602c0fbca9f351b0a1"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.fdx",
+      "size": 2252,
+      "sha256": "cecbb55c8694c98b75a0abfb64466abb81b1552493bc97eef8ca05bb8e8bd33f"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.fnm",
+      "size": 3886,
+      "sha256": "0d186b44fa4c1777a37cf6d419f023e0ec48bd484ff57baf98e1e28676245c2c"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.frq",
+      "size": 6468,
+      "sha256": "6c59adcdaf978408e308a6b8c5aa784f4f4fb0639345b1853fc61cb7662efc3e"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.prx",
+      "size": 4987,
+      "sha256": "20f1b38a515b22c512fed3e1956ce36cde3be07785ff06f3a7340b32882ab1b9"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.tii",
+      "size": 287,
+      "sha256": "e002055034df1ae1bd4e0c4ec70c046bdff784f31199f9f31cd49a9b4e4dd6e0"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.tis",
+      "size": 25853,
+      "sha256": "8d20493741f2064f1465fa46ca96637b044d33fd29c2b9edaac14fba6d1b9b87"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.tvd",
+      "size": 3587,
+      "sha256": "97b44336e757474499ba2101c712d1b26270859f0fa98cc3abc63f3710b0df77"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.tvf",
+      "size": 38265,
+      "sha256": "9a39769bcad0c4350633f29284ca1e2116d47eee517209161ee7b54780448c0e"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4.tvx",
+      "size": 4500,
+      "sha256": "cc1f2e7c4d9309081c7331963242c2b557ffb84c55fd9a753f96ef90b7994fdb"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n4_2.del",
+      "size": 44,
+      "sha256": "7083db5738bf904fbdbb0b48b6e2a5e237ef1ff6de3ee5ee8d59365ef3aebb5d"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n5.cfs",
+      "size": 5379,
+      "sha256": "d44bc80bf9fadca5497eb676ad73629268f82f5d763574a74f7975e9fbb18e69"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n5_1.del",
+      "size": 9,
+      "sha256": "629d8203b8cfaba4cb230205723f743ffe3971a702de3ac0609d010917996bd6"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n6.cfs",
+      "size": 4594,
+      "sha256": "9a0ce59d61c0085dc013b9f6dd9005e824a93f78da7637380401a0383f955d7a"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n6_1.del",
+      "size": 9,
+      "sha256": "c9c60928b8bcb320504e09630f452b40be1953df835bc070dfc906708121ef49"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n7.cfs",
+      "size": 4594,
+      "sha256": "7d3de71ed05d77ef4bddf40bd569ea5ded5b2b17f7c9e7888bf99747168d8823"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/_3n8.cfs",
+      "size": 5379,
+      "sha256": "d167e927d4c6f390809c5040a9ce34441289f3c8bf5545c0a35bb9b17d1fc184"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/segments.gen",
+      "size": 20,
+      "sha256": "61195ca697a5e5f29b01713c8657f8353f2df831395d514018a2ecab0200c2b0"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/segments_2i0",
+      "size": 821,
+      "sha256": "981a4fda818ff5c84df30e854c66c36f8677e36f5515bc471de158a98d6ac9b1"
+    },
+    {
+      "path": "Filling Tank/IM/SearchIndex/segments_2i1",
+      "size": 956,
+      "sha256": "8b350f10ec7ed0b4602f1c840e4fe84aae9c1962e5aafe2ffda7e27808291430"
+    },
+    {
+      "path": "Filling Tank/System/PEData.idx",
+      "size": 121138,
+      "sha256": "645ed39536c115188336b807a56a34c9aeadebba541056a4eb85dc8edb262810"
+    },
+    {
+      "path": "Filling Tank/System/PEData.plf",
+      "size": 3385854,
+      "sha256": "e9532a8b094eb3789beeda8ac0759f07f145e30d67684464e9fb2d3ddc4fe0d2"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListConsumer/HmiBase.xml",
+      "size": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListConsumer/Iecpl.xml",
+      "size": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.IPI.Target.xml",
+      "size": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.Online.xml",
+      "size": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.xml",
+      "size": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "Filling Tank/System/PEData/Meta/ChangeListProvider/Siemens.Automation.DomainModel.xml",
+      "size": 2202,
+      "sha256": "6dcb36901217485dd657f330a6e0215e37911295df2540f56306255e3783ce5e"
+    },
+    {
+      "path": "Filling Tank/XRef/XRef.db",
+      "size": 118784,
+      "sha256": "69f3bf44c3678c10e796cf9e0710ebacd8e99349e06095f470dbed97d8ef7b04"
+    },
+    {
+      "path": "LevelControlHMI.pdf",
+      "size": 1053015,
+      "sha256": "94e5e095aed712b44ff65740fa7ef6e381b9912fead939c5037c47c4bc91ac1f"
+    },
+    {
+      "path": "README.md",
+      "size": 2516,
+      "sha256": "83d524c945cf216d5fb3d512106ff24d2439877fe10cb8c61d7780e409d3cf53"
+    },
+    {
+      "path": "img/HMIadmin.jpg",
+      "size": 75021,
+      "sha256": "9d79d13892a2a161dbda4746130812f9573c1d6224dac2707e945db52472ca82"
+    },
+    {
+      "path": "img/HMIerror.jpg",
+      "size": 71990,
+      "sha256": "5aa479bd9fa7e01bba07e8806d64df356e1633b032ca40e9aca72d47eabaac68"
+    },
+    {
+      "path": "img/HMImain.jpg",
+      "size": 104716,
+      "sha256": "4464c66bb1d66c6a006333b51f9f99791dd4957206e5905b568616aec77313af"
+    },
+    {
+      "path": "img/factoryioimg.jpg",
+      "size": 107231,
+      "sha256": "168d99dbf79bcd144f70a8480dd6312ab15010c33bb3e0801d0707e4d4f5522c"
+    },
+    {
+      "path": "levelcontrol.factoryio",
+      "size": 94318,
+      "sha256": "bf460c0029ad92ef117a71eda616e3c7cc277e0eef4c19e501e011d9172b9a30"
+    },
+    {
+      "path": "levelcontrolcode.pdf",
+      "size": 1272202,
+      "sha256": "39ebc8d042d0d892d13842badb4e8729ab3bd06911bcd6c1e0d22f3279810deb"
+    },
+    {
+      "path": "vids/Admin&Errorhmi.mkv",
+      "size": 23102362,
+      "sha256": "5e320df93cb9e67674f9b94264cde44651d3ead85114de347dc6a36f24c5ed1e"
+    },
+    {
+      "path": "vids/video1MainHmi.mp4",
+      "size": 9759648,
+      "sha256": "c0151c588e717f2a92325f85e4cc5e0cd56770a76b41d394dc917d44c90ae908"
+    }
+  ]
+}
